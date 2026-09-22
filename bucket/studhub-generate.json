@@ -1,0 +1,12 @@
+{
+  "version": "1.0.4",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/MorningBlossom/studhub-cli/releases/download/v1.0.4/studhub-generate-windows-amd64.exe#/studhub-generate.exe",
+      "hash": "5428f49d3c7ce48eca1c2a9d7a3fbe06d3aaedadda520c6f561cb8bfe0e99af4"
+    }
+  },
+  "bin": "studhub-generate.exe",
+  "description": "StudHub CLI tool: studhub-generate",
+  "homepage": "https://github.com/MorningBlossom/studhub-cli"
+}
